@@ -14,7 +14,7 @@ Name ideas:
 - AICommit
 
 AI Models:
-- OpenAI API
+- OpenAI API - https://platform.openai.com/docs/guides/text-generation/chat-completions-api
 - Gopher
 - OPT
 - Bloom
